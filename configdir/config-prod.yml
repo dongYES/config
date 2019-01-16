@@ -1,2 +1,3 @@
-name=huxiuru
-age=27
+my:
+  name: huxiuru
+  age: 27
