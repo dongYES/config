@@ -1,2 +1,3 @@
-name=duxd
-age=28
+my:
+  name: duxd
+  age: 28
